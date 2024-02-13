@@ -19,9 +19,9 @@ elif 2 < c1 < 4:
     print(f"Arifmetic mean: {(n1 + n2 + n3) / 3}")
 else:
     print("Incorrect choice")
-"""Task2
-Користувач вводить з клавіатури кількість метрів.
-Залежно від вибору користувача програма переводть метри в милі, дюйми чи ярди"""
+# """Task2
+# Користувач вводить з клавіатури кількість метрів.
+# Залежно від вибору користувача програма переводть метри в милі, дюйми чи ярди"""
 m1 = int(input("Enter the lenght in meters: "))
 c1 = int(input("Choice what you want to transfer metters to: "
                "Enter 1 in miles. "
